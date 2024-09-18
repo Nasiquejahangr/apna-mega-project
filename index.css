@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color:rgb(48, 215, 237);
+    text-align: center;
+    padding: 30px;
+    
+}
+nav{
+    background-color: black;
+    padding: 10px;
+}
+nav>a{
+    color: white;
+    text-decoration: none;
+   padding:6.6%;
+}
+
+
+/* img{  object-fit: cover;
+    height: 295px;
+
+} */
+
+video{
+      overflow: hidden;
+      margin-top: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10px;
+
+}
+#review{
+  font-size: 40px;
+  color: rgb(14, 15, 15);
+  margin-top: 20px;
+  margin-bottom:20px;
+}
+div{
+    width:25%;
+    background-color: rgba(255, 0, 0, 0);
+    display: inline-block;
+    height: 400px;
+    margin: 55px;
+    border: 2px solid  black;
+    background-image: url(https://static.wixstatic.com/media/b7326b_f19fa5ef04a14ee6b4c01fc984370d71~mv2.png/v1/crop/x_0,y_211,w_1080,h_869/fill/w_1080,h_869,al_c,q_90,enc_auto/Engineering%20IRL%20Notebooks.png);
+    background-position: center;
+    background-size: cover;
+background-repeat: no-repeat;
+}
+.studymaterial{
+margin-top: 20px 0px 20px 0px;
+color: rgb(7, 8, 8);
+margin-top: 30px;
+text-decoration:underline;
+
+}
+img{
+      margin-left: 42%; 
+      margin-top: 30px;
+      box-shadow: 5px 3px 22px 3px #00fffb;
+      border-radius:20px;
+}
+h3{
+    margin-left: 43%;
+
+    margin-top: 10px;
+}
+
+span{
+    margin-left: 43%;
+
+    margin-top: 20px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 20px;
+}
+h5{
+    margin:-17px 68px 0px 68px;
+}
+
+footer {
+    background-color: #333;
+    overflow: hidden;
+    margin-top: 200px;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+    margin-left: 60px;
+}
